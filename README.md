@@ -43,7 +43,7 @@ Khi cài module, nếu chỉ mở project và bấm Play trong Editor thì khôn
 Link repo:
 
 ```text
-https://github.com/phongnk123nk/escape-the-humg
+https://github.com/datmacro20122003/escape-the-humg-Unity
 ```
 
 Cách tải:

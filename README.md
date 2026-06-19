@@ -453,7 +453,7 @@ Người chơi chỉ cần giải nén và chạy file `.exe`, không cần cài
 Nếu không tải ZIP mà dùng Git, chạy lệnh:
 
 ```bash
-git clone https://github.com/phongnk123nk/escape-the-humg.git
+git clone https://github.com/datmacro20122003/escape-the-humg-Unity
 ```
 
 Sau đó mở thư mục vừa clone bằng Unity Hub.
